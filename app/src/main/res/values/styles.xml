@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="MyCustomPopup" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">#dd86</item>
+
+    </style>
+
+
 </resources>
