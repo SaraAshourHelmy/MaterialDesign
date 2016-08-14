@@ -8,4 +8,5 @@
         <item>KitKat</item>
         <item>Jealy Beans</item>
     </array>
+    <string name="title_activity_float">FloatActivity</string>
 </resources>
